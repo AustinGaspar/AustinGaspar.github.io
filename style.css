@@ -148,3 +148,7 @@ h2, h3 {
   text-decoration: none;
   color: #454545;
 }
+img { 
+  width: 10%;
+  height: auto;
+}
